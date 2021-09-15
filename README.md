@@ -6,4 +6,3 @@ THe data used for this exercise was about the size and shape of 13,611 beans. Th
 
 
 KOKLU, M. and OZKAN, I.A., (2020), â€œMulticlass Classification of Dry Beans Using Computer Vision and Machine Learning Techniques.â€ Computers and Electronics in Agriculture, 174, 105507.
-DOI:
